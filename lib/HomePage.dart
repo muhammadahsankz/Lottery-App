@@ -18,7 +18,6 @@ class _HomePageState extends State<HomePage> {
     return  Scaffold(
       appBar: AppBar(),
       body: Column(
-        //mainAxisAlignment: MainAxisAlignment.center,
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           SizedBox(height: 100),
